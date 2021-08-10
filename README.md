@@ -1,7 +1,7 @@
 ## Hello, I'm JLBloods 👋
 
 - 🍃 I'm 19 years old
-- ☘️ My current project is [Milla](https://discord.com/api/oauth2/authorize?client_id=808902087533395988&permissions=8&scope=bot)
+- ☘️ My current project is [JL Team]
 - 🍂 Currently, I'm learning JavaScript and Lua
 
 ## 🌍 Languages:
