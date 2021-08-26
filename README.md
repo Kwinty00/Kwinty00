@@ -1,4 +1,4 @@
-## Hello, I'm JLBloods 👋
+## Hello, I'm JLNeveeer 👋
 
 - 🍃 I'm 19 years old
 - ☘️ My current project is [JL Team]
