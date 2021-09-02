@@ -1,7 +1,7 @@
 ## Hello, I'm JLNeveeer 👋
 
 - 🍃 I'm 19 years old
-- ☘️ My current project is [JL Team]
+- ☘️ My current project is [BadBoy]
 - 🍂 Currently, I'm learning JavaScript and Lua
 
 ## 🌍 Languages:
