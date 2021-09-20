@@ -1,4 +1,4 @@
-## Hello, I'm JLNeveeer 👋
+## Hello, I'm iNeveeer 👋
 
 - 🍃 I'm 19 years old
 - ☘️ My current project is [BadBoy]
