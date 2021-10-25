@@ -1,7 +1,7 @@
-## Hello, I'm iNeveeer 👋
+## Hello, I'm iTazzz 👋
 
 - 🍃 I'm 19 years old
-- ☘️ My current project is [BadBoy]
+- ☘️ My current project is [Haise]
 - 🍂 Currently, I'm learning JavaScript and Lua
 
 ## 🌍 Languages:
