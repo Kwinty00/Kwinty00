@@ -1,7 +1,7 @@
 ## Hello, I'm iTazzz 👋
 
 - 🍃 I'm 19 years old
-- ☘️ My current project is [Haise]
+- ☘️ My current project is [Haise](https://discord.com/api/oauth2/authorize?client_id=873335102199988245&permissions=8&scope=bot%20applications.commands)
 - 🍂 Currently, I'm learning JavaScript and Lua
 
 ## 🌍 Languages:
