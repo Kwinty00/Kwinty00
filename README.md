@@ -7,13 +7,13 @@
 ## 🌍 Languages:
   <p>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://images.freeimages.com/vhq/images/previews/3b5/lua-logo-543110.png" /> 
+    <img src="https://img.shields.io/badge/lua-323330?style=for-the-badge&logo=lua&logoColor=F7DF1E" /> 
   </p>
   
 ## ⚡ Database:
   <p>
     <img src="https://img.shields.io/badge/-MongoDB-green" />
-    <img src="https://avatars.githubusercontent.com/u/2452804?s=200&v=4" />
+    <img src="https://img.shields.io/badge/mysql-323330?style=for-the-badge&logo=mysql&logoColor=F7DF1E" />
   </p>
 
 ## 🚀 Frameworks:
