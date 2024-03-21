@@ -2,12 +2,12 @@
 
 - 🍃 I'm 22 years old
 - ☘️ My current project is [KwintyVerify](https://discord.com/api/oauth2/authorize?client_id=1015307403593531433&permissions=8&scope=bot%20applications.commands)
-- 🍂 Currently, I'm learning JavaScript
+- 🍂 Currently, I'm learning JavaScript and LUA
 
 ## 🌍 Languages:
   <p>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=lua&logoColor=F7DF1E" />
+    <img src="https://images.freeimages.com/vhq/images/previews/3b5/lua-logo-543110.png" /> 
   </p>
   
 ## ⚡ Database:
