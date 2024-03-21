@@ -1,6 +1,6 @@
 ## Hello, I'm Kwinty 👋
 
-- 🍃 I'm 21 years old
+- 🍃 I'm 22 years old
 - ☘️ My current project is [KwintyVerify](https://discord.com/api/oauth2/authorize?client_id=1015307403593531433&permissions=8&scope=bot%20applications.commands)
 - 🍂 Currently, I'm learning JavaScript
 
